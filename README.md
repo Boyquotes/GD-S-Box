@@ -1,6 +1,4 @@
-# GD-S-Box
-a SandBox game made in Godot
+# [GD-S-Box]
 
-this is a in-dev sandbox game made in godot. The plan is to have it suport most PC platforms.
-
-i want it to have the abillity to be modded in almost evey way.
+# [A Short Description]
+*GD S&Box* is a sandbox game made in godot, the goal is to have a FPS that can be modded freely without decompilation by modding files how? The plan is to have a folder structure that is read on launch of the game. Godot is intended to be a mod tool for this project. This project *IS NOT USING GODOT MONO.*
