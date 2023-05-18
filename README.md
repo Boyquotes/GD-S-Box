@@ -4,4 +4,4 @@
 
 # [For a class]
 
-this is made for my coding class and will be exspanded to a suported project.
+this is made for my coding class and will not be exspanded to a suported project.
